@@ -1,0 +1,2 @@
+C:\Users\SIMAO\Downloads\xaml-advanced-2.0\xaml-advanced-2.0\RestaurantManager.Models\RestaurantManager.Models.csproj;neutral
+C:\Users\SIMAO\Downloads\xaml-advanced-2.0\xaml-advanced-2.0\RestaurantManager.UniversalWindows\RestaurantManager.UniversalWindows.csproj;x86
